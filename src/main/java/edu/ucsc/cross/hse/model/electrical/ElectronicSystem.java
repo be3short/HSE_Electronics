@@ -1,6 +1,6 @@
 package edu.ucsc.cross.hse.model.electrical;
 
-import edu.ucsc.cross.hse.core.modelling.HybridSystem;
+import edu.ucsc.cross.hse.core.modeling.HybridSystem;
 import edu.ucsc.cross.hse.core.variable.Variable;
 import edu.ucsc.cross.hse.property.electrical.ElectricalProperties;
 

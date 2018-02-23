@@ -1,6 +1,6 @@
 package edu.ucsc.cross.hse.model.electrical;
 
-import edu.ucsc.cross.hse.core.modelling.DataStructure;
+import edu.ucsc.cross.hse.core.modeling.DataStructure;
 
 public class ElectronicState extends DataStructure
 {

@@ -1,0 +1,27 @@
+<map>
+  <entry>
+    <string>edu.ucsc.cross.hse.core.modelling.DataStructure</string>
+    <list/>
+  </entry>
+  <entry>
+    <string>edu.ucsc.cross.hse.model.electrical.ElectronicState</string>
+    <list>
+      <field>
+        <name>current</name>
+        <clazz>edu.ucsc.cross.hse.model.electrical.ElectronicState</clazz>
+      </field>
+      <field>
+        <name>voltage</name>
+        <clazz>edu.ucsc.cross.hse.model.electrical.ElectronicState</clazz>
+      </field>
+      <field>
+        <name>powerConsumed</name>
+        <clazz>edu.ucsc.cross.hse.model.electrical.ElectronicState</clazz>
+      </field>
+      <field>
+        <name>wattage</name>
+        <clazz>edu.ucsc.cross.hse.model.electrical.ElectronicState</clazz>
+      </field>
+    </list>
+  </entry>
+</map>
